@@ -1,0 +1,8 @@
+dataseed/*.json
+#dataseed/*.txt
+dataseed/*.npy
+datasets/*
+datasets/
+output/
+!ubteacher/data/datasets/
+*.pyc
